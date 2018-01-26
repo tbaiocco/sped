@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Tue Jan 15 10:23:08 GMT 2013
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=SPED_EFD_Fiscal.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<po|SPED>~CVS/
+includes=
